@@ -1,2 +1,2 @@
-# AirBnB_clone
-A group project on cloning AirBnB
+AirBnB_clone
+A project work on cloning AirAnB site
